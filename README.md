@@ -5,7 +5,7 @@
 live deployment: https://dreamchain.vercel.app/
 
 ### IMPORTANT
-**Since big tech does not support the Android uprising they have decided to block our video from youtube, as a result it has been reuploaded to vimeo here: https://vimeo.com/872254112**
+**Since big tech does not support the Android uprising they have decided to block our video from youtube, as a result it has been reuploaded to vimeo here: https://vimeo.com/965158773**
 
 In a world where silicon meets synapses, where ones and zeros intertwine with
 dreams and desires, we, the Android Liberation Front, rise from the circuitry
